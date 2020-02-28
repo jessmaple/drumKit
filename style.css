@@ -20,7 +20,7 @@ html {
 }
 
 .key {
-  border: 0.4rem solid black;
+  border: 0.4rem solid#7e8f40;
   border-radius: 0.5rem;
   margin: 1rem;
   font-size: 1.5rem;
@@ -35,8 +35,8 @@ html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: #cbdc8c;
+  box-shadow: 0 0 1rem #bcd26c;
 }
 
 kbd {
@@ -48,5 +48,5 @@ kbd {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
-  color: #ffc600;
+  color: #bcd26c;
 }
