@@ -4,6 +4,11 @@ html {
   background-size: cover;
 }
 
+h1 {
+    color: lightpink;
+    text-align: center;
+}
+
 body,
 html {
   margin: 0;
