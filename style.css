@@ -1,6 +1,6 @@
-tml {
+html {
   font-size: 10px;
-  background-color: #b5cd5c;
+  background: url(https://imgur.com/lVb9Ous.jpg) bottom center;
   background-size: cover;
 }
 
@@ -30,13 +30,13 @@ html {
   text-align: center;
   color: white;
   background: rgba(0, 0, 0, 0.1);
-  text-shadow: 0 0 0.5rem #fac9df;
+  text-shadow: 0 0 0.5rem whitesmoke;
 }
 
 .playing {
   transform: scale(1.1);
   border-color: #fcddeb;
-  box-shadow: 0 0 1rem #fac9df;
+  box-shadow: 0 0 1rem lightskyblue;
 }
 
 kbd {
@@ -48,5 +48,5 @@ kbd {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
-  color: #fac9df;
+  color: whitesmoke;
 }
